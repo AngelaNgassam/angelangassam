@@ -1,16 +1,13 @@
-## Hi there 👋
+Salut, moi c'est Angela Ngassam
 
-<!--
-**AngelaNgassam/angelangassam** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+À propos de moi
+Je suis étudiante en Développement Web Full Stack (BAC+3) avec une base en développement d'applications mobiles. Passionnée par la création de solutions numériques innovantes, le design UX/UI et l'apprentissage continu de nouvelles technologies.
 
-Here are some ideas to get you started:
+- Actuellement en formation Full Stack Developer
+- Diplômée d'un DEC en Programmation d'Applications Mobiles
+- En apprentissage constant : Laravel, Angular, Node.js, flutter, bases de données
+- Intéressée par l'UX/UI et le développement mobile
+- Basée au Cameroun 🇨🇲
+💬 N'hésitez pas à me contacter pour collaborer !
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
