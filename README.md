@@ -66,26 +66,9 @@ concevoir des applications performantes et intuitives, tout en renforçant mes c
   <img src="https://github-profile-trophy.vercel.app/?username=AngelaNgassam&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
 </div>
 
-##  Domaines de compétence
-
-```javascript
-const angela = {
-    code: ["JavaScript", "HTML/CSS", "PHP", "Python", "Java", "Kotlin"],
-    frameworks: {
-        frontend: ["React", "Vue.js", "Bootstrap", "Tailwind CSS"],
-        backend: ["Node.js", "Express", "Laravel"],
-        mobile: ["React Native", "Android Studio"]
-    },
-    databases: ["MySQL", "MongoDB", "PostgreSQL"],
-    architecture: ["MVC", "REST API", "Microservices"],
-    currentFocus: "Développement Full Stack & Architectures modernes",
-    hobbies: ["Coding", "Apprentissage continu", "Résolution de problèmes"]
-};
-```
-
 ##  Projets en vedette
 
-### 🔗 [Projet 1 - Nom du projet]
+### 🔗 [BelgoLink - Nom du projet](https://github.com/AngelaNgassam/backend-node)
 > Description courte de votre meilleur projet
 - **Technologies** : Flutter, Node.js, MongoDB
 - **Fonctionnalités** : Authentification, CRUD, API REST
