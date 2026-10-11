@@ -80,12 +80,12 @@ Projet réalisé dans le cadre d'un stage.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AngelaNgassam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Angela" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaNgassam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=AngelaNgassam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Angela" height="170" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaNgassam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaNgassam&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaNgassam&theme=tokyo-night&hide_border=true" alt="Graphe d'activité GitHub" />
+<img src="https://ghchart.rshah.org/2E9EF7/AngelaNgassam" alt="Calendrier de contributions GitHub" />
 
 </div>
 
