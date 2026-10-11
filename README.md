@@ -6,7 +6,9 @@
 
 Développeuse web et mobile, en route vers l'ingénierie cloud.
 
-[LinkedIn](https://www.linkedin.com/in/angela-ngassam-b647592a3) · [GitHub](https://github.com/AngelaNgassam) · [E-mail](mailto:ngassamdanielle1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-ngassam-b647592a3)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngassamdanielle1@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AngelaNgassam)
 
 </div>
 
@@ -20,20 +22,37 @@ J'ai réalisé des projets web et mobile en contexte académique et professionne
 
 ## Compétences
 
-**Utilisées dans mes projets**
+### Utilisées dans mes projets
 
-- **Frontend** : React, TypeScript, JavaScript
-- **Backend** : Django REST Framework (Python), Node.js
-- **Mobile** : Flutter
-- **Bases de données** : PostgreSQL, MongoDB
-- **Outils** : Git, GitHub, Docker, Figma
-- **Collaboration** : méthodes Agile, suivi des tâches avec Jira
+**Frontend**<br>
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-**En apprentissage**
+**Backend**<br>
+![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
 
-- Qualité logicielle (SonarCloud)
-- Intégration continue et déploiement (CI/CD)
-- Cloud et pratiques DevOps
+**Mobile**<br>
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+
+**Bases de données**<br>
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
+**Outils et collaboration**<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
+
+### En apprentissage
+
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+
+Intégration continue et déploiement (CI/CD), cloud et pratiques DevOps.
 
 ## Projets
 
@@ -57,6 +76,19 @@ Projet réalisé dans le cadre d'un stage.
 - **Technologies** : Flutter, Node.js, MongoDB
 - **Fonctionnalités** : authentification, CRUD, API REST
 
+## Statistiques GitHub
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=AngelaNgassam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Angela" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaNgassam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" width="48%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaNgassam&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=AngelaNgassam&theme=tokyo-night&hide_border=true" alt="Graphe d'activité GitHub" />
+
+</div>
+
 ## Parcours
 
 - **CESI, Nancy (France)** : classe préparatoire au cycle ingénieur informatique
@@ -72,5 +104,5 @@ Projet réalisé dans le cadre d'un stage.
 
 Ouverte aux échanges et aux opportunités de stage en développement logiciel.
 
-- LinkedIn : [angela-ngassam](https://www.linkedin.com/in/angela-ngassam-b647592a3)
-- E-mail : [ngassamdanielle1@gmail.com](mailto:ngassamdanielle1@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-ngassam-b647592a3)
+[![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:ngassamdanielle1@gmail.com)
