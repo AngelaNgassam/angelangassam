@@ -1,21 +1,54 @@
-# NGASSAM Angela - Portfolio !
+NGASSAM Angela, Portfolio!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=435&lines=Développeuse+Web+Full+Stack;Passionnée+par+la+Programmation;Toujours+en+apprentissage+!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Développeuse+Full+Stack;Étudiante+en+cycle+ingénieur+informatique;Développement+logiciel+%7C+Cloud+%7C+DevOps" alt="Présentation animée d'Angela" />
 </div>
 
-## 🚀 À propos de moi
+🚀 À propos de moi
 
-Bienvenue sur mon portfolio Github ! Je suis NGASSAM Angela, développeuse passionnée par la création de solutions numériques utiles et innovantes. Étudiante en Bachelor Développement Web Full Stack (en partenariat avec 3IL Ingénieurs, Université de Limoges), je m’investis dans des projets qui allient design, logique et impact réel.
+Bienvenue sur mon portfolio GitHub !
 
-Mon objectif :
-concevoir des applications performantes et intuitives, tout en renforçant mes compétences en développement front-end, back-end et mobile.
+Je suis Angela NGASSAM, développeuse orientée web et mobile, actuellement étudiante en classe préparatoire au cycle ingénieur informatique au CESI, campus de Nancy.
 
--  **Formation actuelle** : Développement Web Full Stack (BAC+3)
--  **Expérience** : DEC en Programmation d'Applications Mobiles
--  **Apprentissage continu** : Technologies web modernes, frameworks frontend/backend
--  **Objectif** : Devenir une développeuse full stack polyvalente
--  **Localisation** : Cameroun
+Titulaire d'un bachelor en développement web full stack et d'un diplôme d'études collégiales en développement et applications mobiles obtenu au Canada, je m'intéresse à la conception et au développement de solutions logicielles utiles, fiables et évolutives.
+
+À travers mes projets académiques et personnels, je développe mes compétences en programmation, conception d'applications, gestion de bases de données et outils de développement collaboratif. Je découvre également les pratiques liées à la conteneurisation, à l'intégration continue et au cloud.
+
+🎯 Mes objectifs
+
+Développement logiciel : concevoir et développer des applications web et mobiles.
+
+Qualité logicielle : écrire du code maintenable et appliquer les bonnes pratiques de développement.
+
+Cloud & DevOps : approfondir mes connaissances en Docker, CI/CD, automatisation et infrastructure cloud.
+
+Évolution professionnelle : développer mes compétences en vue de devenir ingénieure cloud.
+
+🎓 Formation
+
+- CESI école d'ingénieur Nancy, France : classe préparatoire au cycle ingénieur informatique.
+
+- Bachelor en développement web full stack en partenariat avec 3IL Ingénieurs, Université de Limoges.
+
+- Diplôme d'études collégiales (DEC) en développement et applications mobiles, CCNB, Nouveau-Brunswick, Canada (BAC+2).
+
+🛠️ Technologies et outils
+
+Développement : JavaScript, TypeScript, Python, Node.js, React, Django, Flutter.
+
+Bases de données : PostgreSQL, MongoDB.
+
+Outils & qualité : Git, GitHub, Docker, SonarCloud.
+
+Environnement collaboratif : méthodes Agile, suivi des tâches avec Jira.
+
+Design UX/UI : Figma
+
+Je continue à approfondir ces technologies et à développer mes compétences à travers la pratique et mes projets.
+
+📍 Localisation
+
+Nancy, France.
 
 ##  Stack Technique
 
@@ -67,9 +100,16 @@ concevoir des applications performantes et intuitives, tout en renforçant mes c
 </div>
 
 ##  Projets en vedette
+### CliniqueStock : Application web de gestion de stocks de médicaments
+- **Technologies** : Django REST Framework, React, PostgreSQL, Docker
+- Développement full stack d’une application de gestion des stocks de médicaments : suivi des mouvements selon FIFO, alertes de stock et de péremption, génération de PDF et conteneurisation.
 
-### 🔗 [BelgoLink - Nom du projet](https://github.com/AngelaNgassam/backend-node)
-> Description courte de votre meilleur projet
+### Projet Fil Rouge : Système de Gestion d’Enrôlement des Étudiants (SGEE) 
+- **Technologies** : Django REST Framework, React
+- Application web qui vise à automatiser et sécuriser l’ensemble du processus d’inscription académique, de la collecte des informations à la production des documents officiels.
+  
+### 🔗 [BelgoLink - Backend](https://github.com/AngelaNgassam/backend-node)
+> Projet de stage : Application mobile
 - **Technologies** : Flutter, Node.js, MongoDB
 - **Fonctionnalités** : Authentification, CRUD, API REST
 
@@ -94,7 +134,7 @@ Je suis toujours ouverte aux nouvelles opportunités, collaborations et discussi
 
 ## 💡 Citation préférée
 
-> *"Le code n’est pas seulement une suite de lignes : c’est une manière de résoudre des problèmes et d’apporter des solutions au monde"* – Cory House
+> *« La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. »* Antoine de Saint-Exupéry
 
 ---
 
@@ -106,8 +146,10 @@ Je suis toujours ouverte aux nouvelles opportunités, collaborations et discussi
 
 <div align="center">
   
-  **⭐️ N'hésitez pas à explorer mes repositories et à me contacter !**
-  
+  **📫 N'hésitez pas à explorer mes repositories et à me contacter !**
+    GitHub : AngelaNgassam
+    LinkedIn : https://www.linkedin.com/in/angela-ngassam
+    Mail: ngassamdanielle1@gmail.com
   ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
   
 </div>
