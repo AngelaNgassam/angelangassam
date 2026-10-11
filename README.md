@@ -85,8 +85,6 @@ Projet réalisé dans le cadre d'un stage.
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaNgassam&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 
-<img src="https://ghchart.rshah.org/2E9EF7/AngelaNgassam" alt="Calendrier de contributions GitHub" />
-
 </div>
 
 ## Parcours
