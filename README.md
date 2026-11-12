@@ -105,13 +105,11 @@ Projet réalisé dans le cadre d'un stage.
 
 - [**Jeu du numéro porte-bonheur**](https://github.com/AngelaNgassam/jeu-numero-porte-bonheur) : jeu développé en C#
 - [**CasinoGame**](https://github.com/AngelaNgassam/CasinoGame) : jeu de casino développé en C#
+- [**Cs_Tic_Tac_Toe**](https://github.com/AngelaNgassam/Cs_Tic_Tac_Toe) : jeu développé en C#
 
 ## Statistiques GitHub
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=AngelaNgassam&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="Statistiques GitHub d'Angela" height="170" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AngelaNgassam&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Langages les plus utilisés" height="170" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=AngelaNgassam&theme=tokyonight&hide_border=true" alt="Série de contributions GitHub" />
 
