@@ -81,20 +81,20 @@ Intégration continue et déploiement (CI/CD), cloud et pratiques DevOps.
 
 ## Projets
 
-### CliniqueStock : gestion de stocks de médicaments
+### [CliniqueStock](https://github.com/AngelaNgassam/cliniquestock) : gestion de stocks de médicaments
 
 Application web full stack de gestion des stocks de médicaments.
 
 - **Technologies** : Django REST Framework, React, TypeScript, PostgreSQL, Docker
 - **Fonctionnalités** : suivi des mouvements de stock selon la méthode FIFO, alertes de stock et de péremption, génération de documents PDF
 
-### SGEE : système de gestion d'enrôlement des étudiants
+### [SGEE (Frontend)](https://github.com/AngelaNgassam/frontendfilrouge) : système de gestion d'enrôlement des étudiants
 
 Projet fil rouge. Application web visant à automatiser et sécuriser le processus d'inscription académique, de la collecte des informations à la production des documents officiels.
 
 - **Technologies** : Django REST Framework, React
 
-### BelgoLink : application mobile
+### [BelgoLinkV (Backend)](https://github.com/AngelaNgassam/BelgolinkV) et [Belgolink (Frontend)](https://github.com/AngelaNgassam/Belgolink): application mobile
 
 Projet réalisé dans le cadre d'un stage.
 
