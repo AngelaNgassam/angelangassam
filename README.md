@@ -20,7 +20,8 @@ Je suis étudiante en classe préparatoire au cycle ingénieur informatique au C
 
 J'ai réalisé des projets web et mobile en contexte académique et professionnel : API REST avec Django et Node.js, interfaces React, application mobile Flutter, ainsi que des jeux en C#. Aujourd'hui, je renforce mes bases en développement logiciel, en qualité du code, en conteneurisation et en intégration continue, avec l'objectif de devenir ingénieure cloud.
 
-**Je recherche un stage en développement logiciel à partir du 10 mai 2027.**
+**Je recherche un stage en cloud, devOps ou en développement logiciel à partir du 10 mai 2027. 
+Et une alternance de Septembre 2027 à Septembre 2030.**
 
 ## Compétences
 
