@@ -2,7 +2,7 @@
 
 # Angela NGASSAM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeuse+full+stack+web+et+mobile;%C3%89tudiante+en+cycle+ing%C3%A9nieur+informatique;Stage+cloud+et+DevOps+d%C3%A8s+mai+2027;Alternance+d%C3%A8s+septembre+2027" alt="Développeuse junior full stack web et mobile, étudiante en année préparatoire au cycle ingénieur en informatique, à la recherche d’un stage en cloud et DevOps à partir du 10 mai 2027, puis d’une alternance" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeuse+full+stack+web+et+mobile;%C3%89tudiante+en+cycle+ing%C3%A9nieur+informatique;Stage+cloud+et+DevOps+d%C3%A8s+mai+2027;Alternance+d%C3%A8s+septembre+2027" alt="Développeuse full stack web et mobile, étudiante en année préparatoire au cycle ingénieur en informatique, à la recherche d’un stage en cloud et DevOps à partir du 10 mai 2027, puis d’une alternance" />
 
 Développeuse junior web et mobile, future ingénieure en informatique.
 
