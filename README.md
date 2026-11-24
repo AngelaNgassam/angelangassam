@@ -2,11 +2,12 @@
 
 # Angela NGASSAM
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeuse+full+stack+web+et+mobile;%C3%89tudiante+en+cycle+ing%C3%A9nieur+informatique;Stage+en+d%C3%A9veloppement+logiciel+d%C3%A8s+mai+2027" alt="Développeuse full stack web et mobile, étudiante en année préparatoire au cycle ingénieur en informatique, à la recherche d’un stage en développement logiciel à partir du 10 mai 2027" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=620&lines=D%C3%A9veloppeuse+full+stack+web+et+mobile;%C3%89tudiante+en+cycle+ing%C3%A9nieur+informatique;Stage+cloud+et+DevOps+d%C3%A8s+mai+2027;Alternance+d%C3%A8s+septembre+2027" alt="Développeuse full stack web et mobile, étudiante en année préparatoire au cycle ingénieur en informatique, à la recherche d’un stage en cloud et DevOps à partir du 10 mai 2027, puis d’une alternance" />
 
 Développeuse web et mobile, future ingénieure en informatique.
 
-[![Télécharger mon CV](https://img.shields.io/badge/%F0%9F%93%84_T%C3%A9l%C3%A9charger_mon_CV-2E9EF7?style=for-the-badge)](https://github.com/AngelaNgassam/AngelaNgassam/raw/main/CV_Angela_NGASSAM.pdf)
+[![CV Stage](https://img.shields.io/badge/%F0%9F%93%84_T%C3%A9l%C3%A9charger_mon_CV_Stage-2E9EF7?style=for-the-badge)](https://github.com/AngelaNgassam/AngelaNgassam/raw/main/CV_Stage_Angela_NGASSAM.pdf)
+[![CV Alternance](https://img.shields.io/badge/%F0%9F%93%84_T%C3%A9l%C3%A9charger_mon_CV_Alternance-2E9EF7?style=for-the-badge)](https://github.com/AngelaNgassam/AngelaNgassam/raw/main/CV_Alternance_Angela_NGASSAM.pdf)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-ngassam-b647592a3)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angela.ngassam@outlook.fr)
@@ -18,12 +19,29 @@ Développeuse web et mobile, future ingénieure en informatique.
 
 Je suis étudiante en classe préparatoire au cycle ingénieur informatique au CESI (campus de Nancy). Avant cela, j'ai suivi un bachelor en développement web full stack (3iL Ingénieurs, Université de Limoges) et un DEC en développement et applications mobiles (CCNB, Canada).
 
-J'ai réalisé des projets web et mobile en contexte académique et professionnel : API REST avec Django et Node.js, interfaces React, application mobile Flutter, ainsi que des jeux en C#. Aujourd'hui, je renforce mes bases en développement logiciel, en qualité du code, en conteneurisation et en intégration continue, avec l'objectif de devenir ingénieure cloud.
+J'ai réalisé des projets web et mobile en contexte académique et professionnel : API REST avec Django et Node.js, interfaces React et Angular, application mobile Flutter, ainsi que des jeux en C#. J'ai aussi écrit des pipelines CI/CD avec GitHub Actions et conteneurisé des applications avec Docker. Aujourd'hui, je renforce mes bases en développement logiciel, en qualité du code, en conteneurisation, en intégration continue et en supervision, avec l'objectif de devenir ingénieure cloud, puis de me spécialiser dans la sécurité du cloud.
 
-**Je recherche un stage en cloud, devOps ou en développement logiciel à partir du 10 mai 2027. 
-Et une alternance de Septembre 2027 à Septembre 2030.**
+**Je recherche un stage en cloud, DevOps ou en développement logiciel à partir du 10 mai 2027,
+puis une alternance de septembre 2027 à septembre 2030.**
 
 ## Compétences
+
+### DevOps
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Docker Hub](https://img.shields.io/badge/Docker_Hub-1D63ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+
+CI/CD, supervision et gestion des alertes (Prometheus, Kibana) : bases acquises en bachelor.
+
+### Systèmes
+
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+Administration Linux : gestion des utilisateurs, des droits d'accès et des bases de données.
 
 ### Langages
 
@@ -37,6 +55,7 @@ Et une alternance de Septembre 2027 à Septembre 2030.**
 ### Frameworks
 
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 ![Django REST Framework](https://img.shields.io/badge/Django_REST_Framework-092E20?style=flat-square&logo=django&logoColor=white)
@@ -65,15 +84,9 @@ Et une alternance de Septembre 2027 à Septembre 2030.**
 ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
 
-### DevOps
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Docker Hub](https://img.shields.io/badge/Docker_Hub-1D63ED?style=flat-square&logo=docker&logoColor=white)
-![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
-
 ### En apprentissage
 
-Intégration continue et déploiement (CI/CD), cloud et pratiques DevOps.
+Approfondissement du cloud, du CI/CD et de la supervision, avec la sécurité du cloud comme objectif.
 
 ### Langues
 
@@ -82,20 +95,34 @@ Intégration continue et déploiement (CI/CD), cloud et pratiques DevOps.
 
 ## Projets
 
-### [CliniqueStock](https://github.com/AngelaNgassam/cliniquestock) : gestion de stocks de médicaments
+### Cloud et DevOps
 
-Application web full stack de gestion des stocks de médicaments.
+#### [appsa_backend](https://github.com/AngelaNgassam/appsa_backend) : backend Laravel conteneurisé avec pipeline CI/CD
+
+- **Technologies** : Laravel, MySQL, Docker, Nginx, GitHub Actions, SonarQube
+- **CI/CD** : contrôle de style, tests automatisés, analyse de sécurité (Composer audit, Trivy), contrôle qualité SonarQube, publication de l'image sur Docker Hub, étapes de déploiement et tests de performance
+
+#### [appcs_laravel](https://github.com/AngelaNgassam/appcs_laravel) : application web Laravel et Angular avec pipeline CI/CD
+
+- **Technologies** : Laravel, Angular, MySQL, Docker, GitHub Actions, SonarCloud
+- **CI/CD** : contrôle de style, tests automatisés sur MySQL, analyse SonarCloud, build du frontend, publication de l'image sur Docker Hub et déploiement automatisé sur un hébergement o2switch
+
+#### [CliniqueStock](https://github.com/AngelaNgassam/cliniquestock) : gestion de stocks de médicaments
+
+Application web full stack de gestion des stocks de médicaments, conteneurisée avec Docker.
 
 - **Technologies** : Django REST Framework, React, TypeScript, PostgreSQL, Docker
 - **Fonctionnalités** : suivi des mouvements de stock selon la méthode FIFO, alertes de stock et de péremption, génération de documents PDF
 
-### [SGEE (Frontend)](https://github.com/AngelaNgassam/frontendfilrouge) : système de gestion d'enrôlement des étudiants
+### Développement web et mobile
+
+#### [SGEE (Frontend)](https://github.com/AngelaNgassam/frontendfilrouge) : système de gestion d'enrôlement des étudiants
 
 Projet fil rouge. Application web visant à automatiser et sécuriser le processus d'inscription académique, de la collecte des informations à la production des documents officiels.
 
 - **Technologies** : Django REST Framework, React
 
-### [BelgoLinkV (Backend)](https://github.com/AngelaNgassam/BelgolinkV) et [Belgolink (Frontend)](https://github.com/AngelaNgassam/Belgolink): application mobile
+#### [BelgoLinkV (Backend)](https://github.com/AngelaNgassam/BelgolinkV) et [Belgolink (Frontend)](https://github.com/AngelaNgassam/Belgolink) : application mobile
 
 Projet réalisé dans le cadre d'un stage.
 
@@ -128,7 +155,7 @@ Projet réalisé dans le cadre d'un stage.
 
 ## Contact
 
-Ouverte aux échanges et aux opportunités de stage en développement logiciel.
+Ouverte aux échanges et aux opportunités de stage et d'alternance en cloud, DevOps et développement logiciel.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/angela-ngassam-b647592a3)
 [![E-mail](https://img.shields.io/badge/E--mail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:angela.ngassam@outlook.fr)
