@@ -32,10 +32,14 @@ puis une alternance de septembre 2027 à septembre 2030.**
 ![Docker Hub](https://img.shields.io/badge/Docker_Hub-1D63ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![SonarCloud](https://img.shields.io/badge/SonarCloud-F3702A?style=flat-square&logo=sonarcloud&logoColor=white)
+
+### Supervision (notions)
+
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
 ![Kibana](https://img.shields.io/badge/Kibana-005571?style=flat-square&logo=kibana&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
 
-CI/CD, supervision et gestion des alertes (Prometheus, Kibana) : bases acquises en bachelor.
+Supervision et gestion des alertes : notions acquises en bachelor.
 
 ### Systèmes
 
@@ -90,7 +94,7 @@ Approfondissement du cloud, du CI/CD et de la supervision, avec la sécurité du
 
 ### Langues
 
-- **Français** : langue maternelle
+- **Français** : courant
 - **Anglais** : intermédiaire
 
 ## Projets
