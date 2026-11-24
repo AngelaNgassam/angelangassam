@@ -90,7 +90,7 @@ Approfondissement du cloud, du CI/CD et de la supervision, avec la sécurité du
 
 ### Langues
 
-- **Français** : courant
+- **Français** : langue maternelle
 - **Anglais** : intermédiaire
 
 ## Projets
